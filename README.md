@@ -5,3 +5,9 @@ Following [this](https://www.digitalocean.com/community/tutorials/how-to-set-up-
 
 ## Goal
 I want to host my site with a Rails backend and a React frontend so I can utilize components and the glory that is Rails. 
+
+## Setup
+To run local environment: 
+```bash
+bin/dev
+```
