@@ -1,5 +1,7 @@
 # My Devsite on React on Rails
 
+[![Ruby on Rails CI](https://github.com/chrsmmns/devsite-react-rails/actions/workflows/rubyonrails.yml/badge.svg)](https://github.com/chrsmmns/devsite-react-rails/actions/workflows/rubyonrails.yml)
+
 ## Documentation
 Following [this](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-v7-project-with-a-react-frontend-on-ubuntu-20-04) guide from DigitalOcean.
 
